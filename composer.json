@@ -1,0 +1,18 @@
+{
+  "name": "humet/easy-social-share-buttons3",
+  "type": "wordpress-plugin",
+  "license": "GPL-3.0",
+  "description": "Easy Social Share Buttons for WordPress adds to your site unique WordPress social share buttons, awesome looking social followers counter, easy to use subscribe to mail list forms and social live chat functionality.",
+  "homepage": "https://codecanyon.net/item/easy-social-share-buttons-for-wordpress/6394476",
+  "authors": [
+    {
+      "name": "Creoworx",
+      "email": "mail@creoworx.com",
+      "homepage": "https://support.creoworx.com/forums/forum/wordpress-plugins/easy-social-share-buttons/"
+    }
+  ],
+  "require": {
+    "php": ">=5.6",
+    "composer/installers": "~1.0"
+  }
+}
